@@ -1,0 +1,1 @@
+function canal(){return"15 impar"}let res=canal();console.log(res);
